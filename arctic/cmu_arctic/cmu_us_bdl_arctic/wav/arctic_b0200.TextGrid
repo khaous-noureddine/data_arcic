@@ -1,0 +1,164 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.555 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.555 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.03 
+            text = "" 
+        intervals [2]:
+            xmin = 0.03 
+            xmax = 0.16 
+            text = "we" 
+        intervals [3]:
+            xmin = 0.16 
+            xmax = 0.45 
+            text = "leave" 
+        intervals [4]:
+            xmin = 0.45 
+            xmax = 0.6 
+            text = "the" 
+        intervals [5]:
+            xmin = 0.6 
+            xmax = 1.38 
+            text = "eventuality" 
+        intervals [6]:
+            xmin = 1.38 
+            xmax = 1.41 
+            text = "to" 
+        intervals [7]:
+            xmin = 1.41 
+            xmax = 2.02 
+            text = "time" 
+        intervals [8]:
+            xmin = 2.02 
+            xmax = 2.15 
+            text = "and" 
+        intervals [9]:
+            xmin = 2.15 
+            xmax = 2.555 
+            text = "law" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 2.555 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.03 
+            text = "" 
+        intervals [2]:
+            xmin = 0.03 
+            xmax = 0.1 
+            text = "ʋ" 
+        intervals [3]:
+            xmin = 0.1 
+            xmax = 0.16 
+            text = "iː" 
+        intervals [4]:
+            xmin = 0.16 
+            xmax = 0.26 
+            text = "ʎ" 
+        intervals [5]:
+            xmin = 0.26 
+            xmax = 0.39 
+            text = "i" 
+        intervals [6]:
+            xmin = 0.39 
+            xmax = 0.45 
+            text = "v" 
+        intervals [7]:
+            xmin = 0.45 
+            xmax = 0.51 
+            text = "ð" 
+        intervals [8]:
+            xmin = 0.51 
+            xmax = 0.6 
+            text = "a" 
+        intervals [9]:
+            xmin = 0.6 
+            xmax = 0.63 
+            text = "ɪ" 
+        intervals [10]:
+            xmin = 0.63 
+            xmax = 0.7 
+            text = "v" 
+        intervals [11]:
+            xmin = 0.7 
+            xmax = 0.78 
+            text = "ɛ" 
+        intervals [12]:
+            xmin = 0.78 
+            xmax = 0.81 
+            text = "n" 
+        intervals [13]:
+            xmin = 0.81 
+            xmax = 0.89 
+            text = "tʲ" 
+        intervals [14]:
+            xmin = 0.89 
+            xmax = 0.98 
+            text = "ʉ" 
+        intervals [15]:
+            xmin = 0.98 
+            xmax = 1.06 
+            text = "a" 
+        intervals [16]:
+            xmin = 1.06 
+            xmax = 1.21 
+            text = "ʎ" 
+        intervals [17]:
+            xmin = 1.21 
+            xmax = 1.25 
+            text = "ɪ" 
+        intervals [18]:
+            xmin = 1.25 
+            xmax = 1.28 
+            text = "tʲ" 
+        intervals [19]:
+            xmin = 1.28 
+            xmax = 1.38 
+            text = "i" 
+        intervals [20]:
+            xmin = 1.38 
+            xmax = 1.41 
+            text = "ə" 
+        intervals [21]:
+            xmin = 1.41 
+            xmax = 1.68 
+            text = "ʈ" 
+        intervals [22]:
+            xmin = 1.68 
+            xmax = 1.95 
+            text = "aj" 
+        intervals [23]:
+            xmin = 1.95 
+            xmax = 2.02 
+            text = "m" 
+        intervals [24]:
+            xmin = 2.02 
+            xmax = 2.06 
+            text = "a" 
+        intervals [25]:
+            xmin = 2.06 
+            xmax = 2.15 
+            text = "n" 
+        intervals [26]:
+            xmin = 2.15 
+            xmax = 2.21 
+            text = "l" 
+        intervals [27]:
+            xmin = 2.21 
+            xmax = 2.555 
+            text = "ɒ" 
